@@ -311,7 +311,7 @@ font-size: 1vw;
 
 }
 
-@media  (max-width:400px) {
+@media  (max-width:566px) {
   .headerdiv{
       width: 80%;
       height: %;
